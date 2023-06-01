@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_assurance_management_assurance_management,assurance_management.assurance_management,model_assurance_management_assurance_management,base.group_user,1,1,1,1
